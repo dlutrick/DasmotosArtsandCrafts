@@ -1,0 +1,37 @@
+* {
+  font-family: Helvetica;
+}
+
+.banner {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("./images/pattern.webp");
+}
+
+.section-one__header {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.section-two__header {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.section-three__header {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.pricing {
+  font-weight: bold;
+  color: blue;
+}
